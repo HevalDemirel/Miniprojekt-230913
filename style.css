@@ -1,4 +1,4 @@
-body{
+.wrapper{
     background-color: rgb(145, 24, 24);
 }
 
@@ -60,4 +60,17 @@ img {
 .bildPåLoggan{
     text-align: center;
     color: yellow;
+}
+
+.mejl{
+    color: rgb(10, 9, 9);
+}
+
+footer{
+    background-color: rgb(164, 204, 20);
+    text-align: center;
+}
+
+.skriven{
+    color: red;
 }
