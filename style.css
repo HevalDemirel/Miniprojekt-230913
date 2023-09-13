@@ -1,0 +1,63 @@
+body{
+    background-color: rgb(145, 24, 24);
+}
+
+h1 {
+    color: rgb(36, 200, 36);
+    text-align: center;
+}
+
+li {
+
+    color: yellow;
+}
+
+h2 {
+
+    color: yellow;
+}
+
+img {
+    border-radius: 1110px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 120px;
+}
+
+.containerList{
+    text-align: center;
+}
+
+.listOfRules{
+    display: inline-block;
+    text-align: left;
+}
+
+.membership{
+    background-color: green;
+}
+
+.topnav{
+    background-color: rgb(9, 190, 103);
+    overflow: hidden;
+}
+
+.topnav a{
+    float: left;
+    color: yellow;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: solid;
+    font-size: 17px;
+}
+
+.topnav a:hover{
+    background-color: darkgreen;
+    color: white;
+}
+
+.bildPåLoggan{
+    text-align: center;
+    color: yellow;
+}
