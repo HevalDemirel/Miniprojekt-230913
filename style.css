@@ -34,10 +34,6 @@ img {
     text-align: left;
 }
 
-.membership{
-    background-color: green;
-}
-
 .topnav{
     background-color: rgb(9, 190, 103);
     overflow: hidden;
@@ -73,4 +69,12 @@ footer{
 
 .skriven{
     color: red;
+}
+
+.membership-btn{
+    background-color: green;
+    display: block;
+    margin: auto;
+    margin-bottom: 20px;
+    border-radius: 16px;
 }
